@@ -27,7 +27,7 @@ All features were systematically verified through connectivity, routing, ACL iso
 
 ## Network Topology
 
-![Network Topology](./images/topology.png)
+![Network Topology](./topology.png)
 
 The architecture follows the **Cisco Three-Tier Hierarchical Model**:
 
@@ -296,6 +296,6 @@ icmp 192.168.12.5:513   203.0.113.2:513   8.8.8.8:513       8.8.8.8:513
 
 <div align="center">
 
-**Rauf Hassan** · FA-2023/BSCS/093 · Lahore Garrison University · Computer Networks (Lab) · May 2025
+**Rauf Hassan**  · Lahore Garrison University · Computer Networks (Lab) · May 2025
 
 </div>
